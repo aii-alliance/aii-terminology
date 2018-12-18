@@ -1,6 +1,6 @@
 ---
-name: 新增术语条目
-about: 新增术语条目的Issue模板
+name: New Terminology
+about: 新增术语条目的模板
 title: ''
 labels: ''
 assignees: ''
