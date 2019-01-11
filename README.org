@@ -1,4 +1,8 @@
-# 工业互联网术语和定义
+#+TITLE: 工业互联网术语和定义白皮书
+#+AUTHOR: 工业互联网产业联盟
+#+LATEX_CLASS: cn-article
+#+LaTeX_HEADER: \linespread{1.5}
+
 
 新增加条目格式：
 
